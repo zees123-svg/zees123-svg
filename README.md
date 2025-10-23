@@ -8,7 +8,7 @@
 - 💻 I work with **HTML, CSS, Bootstrap, JavaScript, JQUERY, PHP, LARAVEL, MySQL**
 - 🧠 Always learning: currently exploring **New Technologies**
 - 📫 How to reach me: **versatilezeeshan1708@gmail.com**
-- 🎯 Available for freelance work via **versatilezeeshan1708@gmail.com or +923216850363**
+- 🎯 Available for freelance work via **versatilezeeshan1708@gmail.com** or **+923216850363**
 
 ---
 <h3 align="left">Languages and Tools:</h3>
@@ -54,13 +54,13 @@
 - 🔗 [Portfolio 3](https://github.com/zees123-svg/Portfolio3)
 - 🔗 [Portfolio 4](https://github.com/zees123-svg/Portfolio4)
 - 🔗 [Portfolio 5](https://github.com/zees123-svg/Portfolio5)
-- 🔗 [Portfolio 6-Full-Stack](https://github.com/zees123-svg/)
-- 🔗 [Cafe-Front-End](https://github.com/zees123-svg/Cafe-F.E)
-- 🔗 [Coffee-Front-End](https://github.com/zees123-svg/coffee-F.E)
-- 🔗 [Netflix-Front-End](https://github.com/zees123-svg/Netflix-F.E)
-- 🔗 [Gym-Front-End](https://github.com/zees123-svg/Gym-F.E)
-- 🔗 [E-Commerce-Front-End](https://github.com/zees123-svg/E-Commerce-F.E)
-- 🔗 [Todo-Front-End](https://github.com/zees123-svg/Todo-F.E)
+- 🔗 [Portfolio 6-Full-Stack](https://github.com/zees123-svg/Portfolio-6-Full-Stack-Project)
+- 🔗 [Cafe-Front-End](https://github.com/zees123-svg/Cafe-F.E-Project)
+- 🔗 [Coffee-Front-End](https://github.com/zees123-svg/coffee-F.E-Project)
+- 🔗 [Netflix-Front-End](https://github.com/zees123-svg/Netflix-F.E-Project)
+- 🔗 [Gym-Front-End](https://github.com/zees123-svg/Gym-F.E-Project)
+- 🔗 [E-Commerce-Front-End](https://github.com/zees123-svg/E-Commerce-F.E-Project)
+- 🔗 [Todo-Front-End](https://github.com/zees123-svg/Todo-F.E-Project)
 
 ---
 
