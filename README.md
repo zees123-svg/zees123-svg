@@ -5,7 +5,6 @@
 
 ### 🏆 GitHub Profile Trophies
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=zees123-svg&theme=algolia&no-frame=true&no-bg=true&margin-w=4#gh-light-mode-only" alt="zees123-svg light"/>
   <img src="https://github-profile-trophy.vercel.app/?username=zees123-svg&theme=radical&no-frame=true&no-bg=true&margin-w=4#gh-dark-mode-only" alt="zees123-svg dark"/>
 </p>
 
@@ -49,7 +48,6 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zees123-svg&show_icons=true&theme=default#gh-light-mode-only" alt="Zeeshan's GitHub stats light" />
   <img src="https://github-readme-stats.vercel.app/api?username=zees123-svg&show_icons=true&theme=radical#gh-dark-mode-only" alt="Zeeshan's GitHub stats dark" />
 </p>
 
@@ -57,7 +55,6 @@
 
 ### 🧩 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zees123-svg&layout=compact&theme=default#gh-light-mode-only" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zees123-svg&layout=compact&theme=radical#gh-dark-mode-only" />
 </p>
 
@@ -65,7 +62,6 @@
 
 ### 🗓️ Contributions:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zees123-svg&theme=default#gh-light-mode-only" alt="Zeeshan's streak light" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zees123-svg&theme=radical#gh-dark-mode-only" alt="Zeeshan's streak dark" />
 </p>
 
@@ -91,8 +87,6 @@
 
 ### 🌐 Connect With Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/zeeshan-ramzan-719845341" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-<a href="https://x.com/Zeeshan56245261?t=yL9Dw9kGac5OzQMxt0D3Pw&s=09" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
 <a href="https://api.whatsapp.com/send?phone=923216850363" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
