@@ -47,20 +47,20 @@
 
 ## 📌 Featured Projects
 
-- 🔗 [Eventify-Full-Stack](https://github.com/zees123-svg/Eventify-F.E-Project)
-- 🔗 [Eventify-Front-end](https://github.com/zees123-svg/)
-- 🔗 [Portfolio 1](https://github.com/zees123-svg/)
-- 🔗 [Portfolio 2](https://github.com/zees123-svg/)
-- 🔗 [Portfolio 3](https://github.com/zees123-svg/)
-- 🔗 [Portfolio 4](https://github.com/zees123-svg/)
-- 🔗 [Portfolio 5](https://github.com/zees123-svg/)
+- 🔗 [Eventify-Full-Stack](https://github.com/zees123-svg/Eventify)
+- 🔗 [Eventify-Front-end](https://github.com/zees123-svg/Eventify-F.E-Project)
+- 🔗 [Portfolio 1](https://github.com/zees123-svg/Portfolio1)
+- 🔗 [Portfolio 2](https://github.com/zees123-svg/Portfolio2)
+- 🔗 [Portfolio 3](https://github.com/zees123-svg/Portfolio3)
+- 🔗 [Portfolio 4](https://github.com/zees123-svg/Portfolio4)
+- 🔗 [Portfolio 5](https://github.com/zees123-svg/Portfolio5)
 - 🔗 [Portfolio 6-Full-Stack](https://github.com/zees123-svg/)
-- 🔗 [Cafe-Front-End](https://github.com/zees123-svg/)
-- 🔗 [Coffee-Front-End](https://github.com/zees123-svg/)
-- 🔗 [Netflix-Front-End](https://github.com/zees123-svg/)
-- 🔗 [Gym-Front-End](https://github.com/zees123-svg/)
-- 🔗 [E-Commerce-Front-End](https://github.com/zees123-svg/)
-- 🔗 [Todo-Front-End](https://github.com/zees123-svg/)
+- 🔗 [Cafe-Front-End](https://github.com/zees123-svg/Cafe-F.E)
+- 🔗 [Coffee-Front-End](https://github.com/zees123-svg/coffee-F.E)
+- 🔗 [Netflix-Front-End](https://github.com/zees123-svg/Netflix-F.E)
+- 🔗 [Gym-Front-End](https://github.com/zees123-svg/Gym-F.E)
+- 🔗 [E-Commerce-Front-End](https://github.com/zees123-svg/E-Commerce-F.E)
+- 🔗 [Todo-Front-End](https://github.com/zees123-svg/Todo-F.E)
 
 ---
 
