@@ -47,7 +47,7 @@
 
 ## 📌 Featured Projects
 
-- 🔗 [Eventify-Full-Stack](https://github.com/zees123-svg/)
+- 🔗 [Eventify-Full-Stack](https://github.com/zees123-svg/Eventify-F.E-Project)
 - 🔗 [Eventify-Front-end](https://github.com/zees123-svg/)
 - 🔗 [Portfolio 1](https://github.com/zees123-svg/)
 - 🔗 [Portfolio 2](https://github.com/zees123-svg/)
