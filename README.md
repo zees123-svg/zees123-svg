@@ -15,7 +15,7 @@
 - 🔭 I specialize in **Frontend & Backend Development**  
 - 🌱 Currently exploring **Laravel, React, and MySQL**  
 - 💬 Ask me about **HTML, CSS, JS, PHP, LARAVEL, MySQL, BOOTSTRAP, JQUERY**  
-- 📫 Reach me at **zeeshan.ramzan.9822@gmail.com**  
+- 📫 Reach me at **versatilezeeshan1708@gmail.com**  
 - ⚡ Fun fact: *I believe great design and clean code make perfect synergy!*  
 
 ---
