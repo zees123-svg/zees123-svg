@@ -57,7 +57,7 @@
 - 🔗 [Portfolio 4](https://github.com/zees123-svg/Portfolio4)
 - 🔗 [Portfolio 5](https://github.com/zees123-svg/Portfolio5)
 - 🔗 [Portfolio 6-Full-Stack](https://github.com/zees123-svg/Portfolio-6-Full-Stack-Project-)
-- 🔗 [Portfolio 7](https://github.com/zees123-svg/Portfolio 7)
+- 🔗 [Portfolio 7](https://github.com/zees123-svg/Portfolio-7)
 - 🔗 [Cafe-Front-End](https://github.com/zees123-svg/Cafe-F.E-Project)
 - 🔗 [Coffee-Front-End](https://github.com/zees123-svg/coffe-F.E-Project)
 - 🔗 [Netflix-Front-End](https://github.com/zees123-svg/Netflix-F.E-Project)
