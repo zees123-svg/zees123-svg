@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Web Developer </h3>
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ZeeshanRamzan" alt="Zeeshan Ramzan"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zees123-svg/" alt="zeeshan ramzan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZeeshanRamzan" alt="zeeshan ramzan" /></a> </p>
 
 - 🌐 I specialize in **Frontend & Backend Development**
 - 💻 I work with **HTML, CSS, Bootstrap, JavaScript, JQUERY, PHP, LARAVEL, MySQL**
