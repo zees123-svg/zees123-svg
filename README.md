@@ -11,10 +11,13 @@
 - 🎯 Available for freelance work via **versatilezeeshan1708@gmail.com** or **+923216850363**
 
 ---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JQuery" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://laravel.com/docs" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
 </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -48,10 +51,9 @@
 
 ---
 
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc5MDAnIGhlaWdodD0nMTYwJyB2aWV3Qm94PScwIDAgOTAwIDE2MCc+CiAgPHN0eWxlPgogICAgLmJnIHtmaWxsOiMwYjEyMjA7fQogICAgLmNhcmR7ZmlsbDojMGYxNzIwOyByeDoxMjt9CiAgICAucGFuZWwgewogICAgICBmaWxsOiMxMTE4Mjc7IHJ4OjEycHg7CiAgICAgfQogICAgLnF1b3RlIHtmaWxsOiMxN2MyYjg7IGZvbnQtZmFtaWx5OiAnUG9wcHlucycsIEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6MjBweDsgZm9udC13ZWlnaHQ6NTA7fQogICAgLmF1dGhvcntmaWxsOiM4YWEwYzg7IGZvbnQtZmFtaWx5OiAnUG9wcHlucycsIEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6MTZweDsgZm9udC13ZWlnaHQ6NjA7fQogIDwvc3R5bGU+CiAgPHJlY3Qgd2lkdGg9JzkwMCcgaGVpZ2h0PScxNjAnIGNsYXNzPSdiZycgcm94PScxNCcvPgogIDxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDIwLDEyKSc+CiAgICA8cmVjdCB3aWR0aD0nODYwJyBoZWlnaHQ9JzEzNicgY2xhc3M9J3BhbmVsJy8+CiAgICA8dGV4dCB4PScyOCcgeT0nNTInIGNsYXNzPSdxdW90ZSc+IuKAnFByb2dyYW1taW5nIGlzbuKAnSBhYm91dCB3cml0aW5nIGNvZGU7IGl0J3MgYWJvdXQgdHVybmluZyBjb25mdXNpb24gaW50byBsb2dpYywgb25lIGJ1ZyBhdCBhIHRpbWUuIuKAnTwvdGV4dD4KICAgIDx0ZXh0IHg9JzgyMCcgeT0nMTA4JyB0ZXh0LWFuY2hvcj0nZW5kJyBjbGFzcz0nYXV0aG9yJz4tLSBaZWVzaGFuIFJhbXphbjwvdGV4dD4KICA8L2c+Cjwvc3ZnPg==" alt="quote" />
+### ✍️ Random Dev Quote  
+<p align="center">  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Programming%20isn’t%20about%20writing%20code%3B%20it’s%20about%20turning%20confusion%20into%20logic%2C%20one%20bug%20at%20a%20time.&author=Zeeshan%20Ramzan" alt="Dev Quote Card"/>  
 </p>
 
 ---
