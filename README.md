@@ -37,6 +37,7 @@
 ## 🔥 GitHub Stats
 
 ![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zees123-svg&show_icons=true&theme=tokyonight)
+
 ## Languages and Tools:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zees123-svg&layout=compact&theme=tokyonight)
@@ -46,6 +47,12 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=zees123-svg&theme=tokyonight)
 
 ---
+
+### ✍️ Random Dev Quote
+<p align="center" type=horizontal&theme=tokyonight>
+  “Programming isn’t about writing code; it’s about turning confusion into logic, one bug at a time.”
+  — Zeeshan Ramzan
+</p>
 
 ## 📌 Featured Projects
 
