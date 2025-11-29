@@ -39,7 +39,7 @@
 
 ## 🔥 GitHub Stats
 
-![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zees123-svg&show_icons=true&theme=tokyonight)
+![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zees123-svg&show_icons=true&theme=tokyonight)
 
 ## Languages and Tools:
 
