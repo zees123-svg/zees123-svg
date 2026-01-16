@@ -79,7 +79,7 @@
 - 🔗 [Todo-Front-End](https://github.com/zees123-svg/Todo-F.E-Project)
 - 🔗 [Blog-Website](https://github.com/zees123-svg/blog-website)
 - 🔗 [Work-report-Website](https://github.com/zees123-svg/work-reporting)
-- 🔗 [Tic-Tac-Toe-Game](https://github.com/zees123-svg/tic-tac-toe-game)
+- 🔗 [Tic-Tac-Toe-Game](https://github.com/zees123-svg/tic-tac-toe-project)
 
 ---
 
