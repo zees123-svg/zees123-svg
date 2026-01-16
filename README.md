@@ -78,6 +78,7 @@
 - 🔗 [E-Commerce-Front-End](https://github.com/zees123-svg/E-Commerce-F.E-Project)
 - 🔗 [Todo-Front-End](https://github.com/zees123-svg/Todo-F.E-Project)
 - 🔗 [Blog-Website](https://github.com/zees123-svg/blog-website)
+- 🔗 [Work-report-Website](https://github.com/zees123-svg/work-reporting)
 
 ---
 
