@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zees123-svg" alt="zeeshan ramzan" /></a> </p>
 
 - 🌐 I specialize in **Frontend & Backend Development**
-- 💻 I work with **HTML, CSS, Bootstrap, JavaScript, JQUERY, PHP, LARAVEL, MySQL, Git, Github, Vs Code**
+- 💻 I work with **HTML, CSS, Bootstrap, JavaScript, React JS, PHP, MySQL, Git, Github, Vs Code**
 - 🧠 Always learning: currently exploring **New Technologies**
 - 📫 How to reach me: **versatilezeeshan1708@gmail.com**
 - 🎯 Available for freelance work via **versatilezeeshan1708@gmail.com** or **+923216850363**
