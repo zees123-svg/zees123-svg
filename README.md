@@ -86,6 +86,7 @@
 - 🔗 [Real-Estate-React-Project](https://github.com/zees123-svg/Real-Estate-React-Project)
 - 🔗 [React-Weather-App-Project](https://github.com/zees123-svg/Syntecxhub_Weather_App)
 - 🔗 [Express-Ecommerce-Store-Project](https://github.com/zees123-svg/CodeAlpha_Simple-E-Commerce-Store)
+- 🔗 [Express-User-Management-System-Project](https://github.com/zees123-svg/Syntecxhub_User-Management-System)
 
 ---
 
