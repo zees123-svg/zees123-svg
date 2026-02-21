@@ -87,7 +87,7 @@
 - 🔗 [React-Weather-App-Project](https://github.com/zees123-svg/Syntecxhub_Weather_App)
 - 🔗 [Express-Ecommerce-Store-Project](https://github.com/zees123-svg/CodeAlpha_Simple-E-Commerce-Store)
 - 🔗 [Express-User-Management-System-Project](https://github.com/zees123-svg/Syntecxhub_User-Management-System)
-- 🔗 [Express-Social-media-Platform](https://github.com/zees123-svg/CodeAlpha_Social-Media-Platform)
+- 🔗 [Express-Social-Media-Platform](https://github.com/zees123-svg/CodeAlpha_Social-Media-Platform)
 
 ---
 
