@@ -88,6 +88,7 @@
 - 🔗 [Express-Ecommerce-Store-Project](https://github.com/zees123-svg/CodeAlpha_Simple-E-Commerce-Store)
 - 🔗 [Express-User-Management-System-Project](https://github.com/zees123-svg/Syntecxhub_User-Management-System)
 - 🔗 [Express-Social-Media-Platform](https://github.com/zees123-svg/CodeAlpha_Social-Media-Platform)
+- 🔗 [Task-Manager-Mern-App](https://github.com/zees123-svg/Syntecxhub_Task-Manager-Mern-App)
 
 ---
 
