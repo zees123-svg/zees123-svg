@@ -90,6 +90,7 @@
 - 🔗 [Express-Social-Media-Platform](https://github.com/zees123-svg/CodeAlpha_Social-Media-Platform)
 - 🔗 [Task-Manager-Mern-App](https://github.com/zees123-svg/Syntecxhub_Task-Manager-Mern-App)
 - 🔗 [Mern-Blog-Application](https://github.com/zees123-svg/Syntecxhub_Mern-Blog-Application)
+- 🔗 [Sunfox-Solar-Website](https://github.com/zees123-svg/Sunfox-Solar)
 
 ---
 
