@@ -92,6 +92,7 @@
 - 🔗 [Mern-Blog-Application](https://github.com/zees123-svg/Syntecxhub_Mern-Blog-Application)
 - 🔗 [Sunfox-Solar-Website](https://github.com/zees123-svg/Sunfox-Solar)
 - 🔗 [Next.js-Portfolio-Website](https://github.com/zees123-svg/Next.js-portfolio)
+- 🔗 [Todo-App](https://github.com/zees123-svg/Todo-App)
 
 ---
 
